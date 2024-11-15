@@ -361,7 +361,7 @@ filter: grayscale(0%);
 }
 
 .project3::after {
-      content: "Scholl Management.";
+      content: "School Management.";
       mix-blend-mode: difference;
       font-family: "Roboto Mono";
       font-size: 36px;
